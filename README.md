@@ -75,3 +75,37 @@ The first year of this program consists of about equal computer science and math
 |  | CS 492 - The Social Interactions of Computing |
 |  | CS 486 - Introduction to Artificial Intelligence |
 |  |  |
+
+### How Long Does This Degree Take?
+This is a 4-year bachelor's degree, but it can be a 5-year degree if you are a part of the University of Waterloo CO-OP program.
+
+## Experimental Learning: How Can You Gain Experience in Artificial Intelligence?
+---
+### CO - OP Programs
+If you are applying to a CO-OP program for your post-secondary experience, there are lots of opportunities to grow your resume. For example, the University of Toronto and the University of Waterloo’s CO-OP programs are known for their respective lot of opportunities for Computer-Science and Technical Experiences in the field of interest. 
+
+### Internships
+Looking for jobs on [LinkedIn](https://ca.linkedin.com/), [Indeed](indeed.ca), and [Glassdoor](www.glassdoor.ca) can get you in the door for a lot of internships and different experiences. 
+
+### Robotics
+Being a part of a robotics team (either within a school or extra-curricularly) can give you a lot of experience with the Computer Science Field. Our own St. Augustine has a team that is heading to provincials in February of 2023.
+
+### Online Courses
+There are multiple Computer and Artificial Intelligence courses online in order for you to understand more about the programming experience and more technical skills. 
+For example:
+- [Machine Learning at Stanford University](https://www.coursera.org/specializations/machine-learning-introduction?irclickid=Tg0X1ZWPYxyNT9HS4HRRh3g3UkAyncXhT3TTQU0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3311133&utm_content=b2c)
+- [Deep Learning Specialization By Andrew Ng](https://coursera.pxf.io/c/3311133/1213620/14726?subId1=aideeplearning&u=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning&partnerpropertyid=3245039)
+- [ABM Applied AI Professional Certificate](https://coursera.pxf.io/c/3311133/1213620/14726?subId1=aiibmappliedai&u=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fapplied-artifical-intelligence-ibm-watson-ai&partnerpropertyid=3245039)
+
+In all of these courses, some examples of the skills covered are: 
+- Master the theory of AI and deep learning, and see how it is applied in industry
+- Practice in Python and TensorFlow
+- Understand industry best-practices for building deep learning applications
+- Get advice from deep learning experts and leaders in the field
+- Be able to implement a neural network in TensorFlow
+- Understand how to diagnose errors in a machine learning system and prioritise directions for reducing error
+- Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs
+
+### Non - Technical Skills
+In terms of non-technical skills, there are various activities you can do in terms of team building and leadership. For example, [York University](https://www.yorku.ca/scld/leadershipworkshops/) offers work principles and Leadershop workshops that can work very well with your experience in artificial intelligence. these workshops and projects can help you jump the gun for working well in a professional and technical environment.
+
