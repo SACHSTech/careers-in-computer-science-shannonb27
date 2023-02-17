@@ -60,3 +60,18 @@ The prerequisite courses required for this program include:
 ### What Should You Expect in Your First Year?
 The first year of this program consists of about equal computer science and mathematics courses. According to [the University](https://uwaterloo.ca/future-students/programs/computer-science), “You'll primarily take Mathematics and Computer Science courses to give you the foundations for your upper-year classes, along with a few electives. After first year, the majority of your required courses will be Computer Science.” Some expected classes are as follows:
 
+| Year of Study | Courses |
+|---|---|
+| First Year | CS 135 - Designing Functional Programs |
+|  | MATH 135 - Algebra for Honours Mathematics |
+|  | MATH 137 - Calculus 1 for Honours Mathematics |
+|  | CS 136 - Elementary Algorithm Design and Data Abstraction |
+|  | CS 136L - Tools and Techniques for Software Development |
+|  | MATH 136 - Linear Algebra 1 for Honours Mathematics |
+|  | MATH 138 - Calculus 2 for Honours Mathematics |
+|  | Three Electives + One Communications Course |
+| Upper Year (Sample) | CS 341 - Algorithms |
+|  | CS 449 - Human-Computer Interaction |
+|  | CS 492 - The Social Interactions of Computing |
+|  | CS 486 - Introduction to Artificial Intelligence |
+|  |  |
