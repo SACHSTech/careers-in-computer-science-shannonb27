@@ -127,8 +127,25 @@ There are a variety of jobs in the AI world, from entry-level to senior-level po
 
 ### **Mid Level Position:** [Systems Engineer at The National Security Agency](https://www.indeed.com/q-Mid-Level-Machine-Learning-Ai-Engineer-jobs.html?vjk=c19beefa11daee28)
 
-**Estimated Sallary:** $69.3K–$87.8K, yearly
+**Estimated Sallary:** $74,682 - $176,300, yearly
 
-**Based in:** Markham, Ontario
+**Based in:** Fort Meade, Maryland
 
- **Official Job Description:**
+ **Official Job Description:** As an Engineering and Physical Science professional, you will use your skills to create the systems and tools that will be used to enhance the operation of intelligence. You will advise, administer and perform scientific projects, such as planning, designing, and constructing specialized equipment, and ensuring adherence to sound engineering and scientific standards and principles. The NSA offers multiple areas of focus for facilities engineers, including computer, architectural, electrical, mechanical, and structural. In addition, we are seeking skills that include computer design, microelectronics, radio frequency design, and systems engineering. Apply your science and engineering skills to protect the nation.
+
+ **Additional Requirement:** Completed Cyberspace Workforce Improvement Program (CWIP)
+
+ ### **Senior Level Position:** [Solutions Engineer, Data (Liberty Mutual Insurance)](https://www.indeed.com/jobs?q=senior+Level+Machine+Learning+Ai+Engineer&l=&vjk=c42fd01a50371440&advn=7114192474230625)
+
+**Estimated Sallary:** $154,000 - $216,300, yearly
+
+**Based in:** Remote environment
+
+ **Official Job Description:** 
+
+ **Description:** We deliver our customers peace of mind every day by helping them protect what they value most. Our passion for placing the customer at the center of everything we do is driving a transformational shift at Liberty Mutual. Operating as a tech startup within a Fortune 100 company, we are leading a digital disruption that will redefine how people experience insurance.
+
+ **Summary:**  The Global Risk Solutions Technology team is looking to hire a Solutions Engineer, Data for the Analytics Enablement & Emerging technology team to support our Data Science Solutions (DSS) business teams to deliver technology solutions utilizing the latest in Artificial Intelligence and Machine Learning. As a Solutions Engineer you will be supporting one or more Agile teams within Data Science Solutions. Our teams are focused on business delivery through the development of advanced analytics products ranging from Geospatial and Location Intelligence models to Pricing and Risk selection models. Our technology team builds and supports a number of web applications (React/Python), predictive models, mobile applications and data pipelines. Our teams are also focused on partnering closely with our data scientists to build platforms and geospatial intelligence to provide location insights to our Claims adjusters and Underwriters. As a solutions engineer in DSS you will be involved in providing input into and the technology direction for many of the new products and solutions we are building using AI. As a Solutions Engineer within Global Risk Solutions you will work with other software engineers, data engineers, solutions engineers, architects, managers, and directors to help build out our Global Data & Advanced Analytics strategy across dozens of development teams. This includes software engineering standards, testing as a service offering, and application quality observability.
+
+
+
