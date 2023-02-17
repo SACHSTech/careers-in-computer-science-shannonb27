@@ -25,7 +25,7 @@ Within the computer science field, if you have a lot of experience with the subj
 - Robotics
 - Visual Image Recognition
 - Autonomous Driving
-- Understanding of programming languages like Python, Java, Scala, and - TypeScript
+- Understanding of programming languages like Python, Java, Scala, and TypeScript
 - Data Science
 - Statistics and probability
 - Data Engineering
@@ -42,4 +42,21 @@ Within the computer science field, if you have a lot of experience with the subj
 
 ### Sallary Range
 The majority of Artificial Intelligence Engineer salaries currently range between $129,366 (25th percentile) to $157,530 (75th percentile) with top earners (90th percentile) making $192,378 annually in Toronto. (Via [ZipRecruiter](https://www.ziprecruiter.com/Salaries/Artificial-Intelligence-Engineer-Salary#:~:text=While%20ZipRecruiter%20is%20seeing%20annual,annually%20across%20the%20United%20States))) The average is about $110,000 a year. As of Feb 5, 2023, the average annual pay for an Entry Level Artificial Intelligence Engineer in the United States is $112,550 a year. (Via [ZipRecruiter](https://www.ziprecruiter.com/Salaries/Artificial-Intelligence-Engineer-Salary#:~:text=While%20ZipRecruiter%20is%20seeing%20annual,annually%20across%20the%20United%20States))
+
+## Standard Education
+---
+### What Kind of Program Does it Take?
+Although there are lots of programs that you can become an AI engineer from (since a lot of this field is based on experience), the University of Waterloo Computer Science Program takes the cake. The University of Waterloo is well known for their computer and Mathematics based degrees. There is a 4.3% acceptance rate for the BSC degree, meaning that this is a very competitive program, but if you are to get in, a lot of good information can be learnt from their amazing courses. 
+
+### Entry Requirements
+For Ontario students, the University of Waterloo takes your top 6 university or mixed grade 12 courses and is expecting a low to mid 90 average. 
+
+The prerequisite courses required for this program include:
+- Advanced Functions (MHF4U)
+- Calculus and Vectors (MCV4U)
+- Any Grade 12 English (ex. ENG4U)
+- One other 4U Course
+
+### What Should You Expect in Your First Year?
+The first year of this program consists of about equal computer science and mathematics courses. According to [the University](https://uwaterloo.ca/future-students/programs/computer-science), “You'll primarily take Mathematics and Computer Science courses to give you the foundations for your upper-year classes, along with a few electives. After first year, the majority of your required courses will be Computer Science.” Some expected classes are as follows:
 
