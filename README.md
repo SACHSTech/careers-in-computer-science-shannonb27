@@ -1,7 +1,7 @@
 # Artificial Intelligence Engineers: What's That Like?
 ## The Basics
 ---
-### What is an Artificial Intelligence Engineer?
+### **What is an Artificial Intelligence Engineer?**
 
  As the name suggests, an artificial reality developer works on and assists artificial intelligence (AI) development through coding and creating AI based software. They tend to use various coding languages, examples being: Java, C++, Python, and R. In a greater sense, it can also be referred to as a coding engineer or a software developer. Although software development is large area to talk about, AI developers have specific responsibilities such as (according to LeWagon.com): 
 
@@ -14,11 +14,11 @@
 
 <img src= "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/516313" width="320">
 
-### Required Responsibilities:
+### **Required Responsibilities:**
 
 Within the computer science field, if you have a lot of experience with the subject at hand, you have a higher opportunity to get the job, but there are academic requirements a lot of the time. To become an AI developer, you should have graduated with a Computer Science-related degree, although getting a master's isn’t required unless you are planning on working for a very large company. 
 
-### Required Technical Skills
+### **Technical Skills**
 - Machine Learning and Artificial Intelligence
 - Neural Networks
 - Natural Language Processing
@@ -31,7 +31,7 @@ Within the computer science field, if you have a lot of experience with the subj
 - Data Engineering
 - Exploratory data analysis
 
-### Required Non-Technical Skills
+### **Required Non-Technical Skills**
 - Emotional intelligence
 - Decision making
 - Problem-solving
@@ -40,15 +40,15 @@ Within the computer science field, if you have a lot of experience with the subj
 - Communication skills
 - Leadership skills
 
-### Sallary Range
+### **Sallary Range**
 The majority of Artificial Intelligence Engineer salaries currently range between $129,366 (25th percentile) to $157,530 (75th percentile) with top earners (90th percentile) making $192,378 annually in Toronto. (Via [ZipRecruiter](https://www.ziprecruiter.com/Salaries/Artificial-Intelligence-Engineer-Salary#:~:text=While%20ZipRecruiter%20is%20seeing%20annual,annually%20across%20the%20United%20States))) The average is about $110,000 a year. As of Feb 5, 2023, the average annual pay for an Entry Level Artificial Intelligence Engineer in the United States is $112,550 a year. (Via [ZipRecruiter](https://www.ziprecruiter.com/Salaries/Artificial-Intelligence-Engineer-Salary#:~:text=While%20ZipRecruiter%20is%20seeing%20annual,annually%20across%20the%20United%20States))
 
 ## Standard Education
 ---
-### What Kind of Program Does it Take?
+### **What Kind of Program Does it Take?**
 Although there are lots of programs that you can become an AI engineer from (since a lot of this field is based on experience), the University of Waterloo Computer Science Program takes the cake. The University of Waterloo is well known for their computer and Mathematics based degrees. There is a 4.3% acceptance rate for the BSC degree, meaning that this is a very competitive program, but if you are to get in, a lot of good information can be learnt from their amazing courses. 
 
-### Entry Requirements
+### **Entry Requirements**
 For Ontario students, the University of Waterloo takes your top 6 university or mixed grade 12 courses and is expecting a low to mid 90 average. 
 
 The prerequisite courses required for this program include:
@@ -57,7 +57,7 @@ The prerequisite courses required for this program include:
 - Any Grade 12 English (ex. ENG4U)
 - One other 4U Course
 
-### What Should You Expect in Your First Year?
+### **What Should You Expect in Your First Year?**
 The first year of this program consists of about equal computer science and mathematics courses. According to [the University](https://uwaterloo.ca/future-students/programs/computer-science), “You'll primarily take Mathematics and Computer Science courses to give you the foundations for your upper-year classes, along with a few electives. After first year, the majority of your required courses will be Computer Science.” Some expected classes are as follows:
 
 | Year of Study | Courses |
@@ -76,21 +76,21 @@ The first year of this program consists of about equal computer science and math
 |  | CS 486 - Introduction to Artificial Intelligence |
 |  |  |
 
-### How Long Does This Degree Take?
+### **How Long Does This Degree Take?**
 This is a 4-year bachelor's degree, but it can be a 5-year degree if you are a part of the University of Waterloo CO-OP program.
 
 ## Experimental Learning: How Can You Gain Experience in Artificial Intelligence?
 ---
-### CO - OP Programs
+### **CO - OP Programs**
 If you are applying to a CO-OP program for your post-secondary experience, there are lots of opportunities to grow your resume. For example, the University of Toronto and the University of Waterloo’s CO-OP programs are known for their respective lot of opportunities for Computer-Science and Technical Experiences in the field of interest. 
 
-### Internships
+### **Internships**
 Looking for jobs on [LinkedIn](https://ca.linkedin.com/), [Indeed](indeed.ca), and [Glassdoor](www.glassdoor.ca) can get you in the door for a lot of internships and different experiences. 
 
-### Robotics
+### **Robotics**
 Being a part of a robotics team (either within a school or extra-curricularly) can give you a lot of experience with the Computer Science Field. Our own St. Augustine has a team that is heading to provincials in February of 2023.
 
-### Online Courses
+### **Online Courses**
 There are multiple Computer and Artificial Intelligence courses online in order for you to understand more about the programming experience and more technical skills. 
 For example:
 - [Machine Learning at Stanford University](https://www.coursera.org/specializations/machine-learning-introduction?irclickid=Tg0X1ZWPYxyNT9HS4HRRh3g3UkAyncXhT3TTQU0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=3311133&utm_content=b2c)
@@ -106,6 +106,29 @@ In all of these courses, some examples of the skills covered are:
 - Understand how to diagnose errors in a machine learning system and prioritise directions for reducing error
 - Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs
 
-### Non - Technical Skills
+### **Non-Technical Skills**
 In terms of non-technical skills, there are various activities you can do in terms of team building and leadership. For example, [York University](https://www.yorku.ca/scld/leadershipworkshops/) offers work principles and Leadershop workshops that can work very well with your experience in artificial intelligence. these workshops and projects can help you jump the gun for working well in a professional and technical environment.
 
+# But What About the Real World? (Real Jobs)
+
+There are a variety of jobs in the AI world, from entry-level to senior-level positions.
+
+### **Entry Level Position:** [Database Administrator for IBM](https://ca.indeed.com/viewjob?jk=332968d9e1fa11d1&from=tp-serp&tk=1gpgbfr0fkefo803)
+
+**Estimated Sallary:** $69.3K–$87.8K, yearly
+
+**Based in:** Markham, Ontario
+
+ **Official Job Description:**
+
+**Introduction**: "At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk."
+
+**Your Role and Responsibilities:** This is a Database Administrator Position to work in the Maximo/Tririga SRE team, responsible for all infrastructure support for production environments in the IBM Cloud. Most of the activities are performed in DB2, however DB experience in other database offerings would be useful for this position as well. The professional will have the opportunity to be in touch with best practices, techniques and tools, in a collaborative team, performing activities that includes database creation, refreshing database, user management. Export and Import and other Database tools and utilities. The focus in automation is a plus. It is an amazing opportunity to be part of an innovative, agile and global team.
+
+### **Mid Level Position:** [Systems Engineer at The National Security Agency](https://www.indeed.com/q-Mid-Level-Machine-Learning-Ai-Engineer-jobs.html?vjk=c19beefa11daee28)
+
+**Estimated Sallary:** $69.3K–$87.8K, yearly
+
+**Based in:** Markham, Ontario
+
+ **Official Job Description:**
