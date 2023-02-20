@@ -127,7 +127,7 @@ There are a variety of jobs in the AI world, from entry-level to senior-level po
 
 **Based in:** Markham, Ontario
 
-<img src= "https://www.queer.de/img/ibm-regenbogen-logo-600x279.jpg" width=200>
+<img src= "https://www.queer.de/img/ibm-regenbogen-logo-600x279.jpg" width=300>
  
  **Official Job Description:**
 
@@ -152,6 +152,9 @@ There are a variety of jobs in the AI world, from entry-level to senior-level po
 
 **Based in:** Remote environment
 
+<img src= "https://upload.suggest.com/sg/uploads/2022/01/limu-emu-doug-800x504.jpg" width= "500">
+ 
+ 
  **Official Job Description:** 
 
  **Description:** We deliver our customers peace of mind every day by helping them protect what they value most. Our passion for placing the customer at the center of everything we do is driving a transformational shift at Liberty Mutual. Operating as a tech startup within a Fortune 100 company, we are leading a digital disruption that will redefine how people experience insurance.
