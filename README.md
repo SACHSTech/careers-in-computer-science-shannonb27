@@ -149,4 +149,25 @@ There are a variety of jobs in the AI world, from entry-level to senior-level po
 
 
 # Works Cited
+“Artificial Intelligence Engineer.” ZipRecruiter, ZipRecruiter, 2023, [www.ziprecruiter.com/Salaries/Artificial-Intelligence-Engineer-Salary#:~:text=While%20ZipRecruiter%20is%20seeing%20annual,annually%20across%20the%20United%20States]()
+
+Code Spaces. “10 Best Artificial Intelligence Courses, Certifications & Classes Available Online.” Code Spaces | Explore, Learn & Master Any Skill, 2 Feb. 2023, [www.codespaces.com/best-artificial-intelligence-courses-certifications.html]()
+
+“Computer Science.” Undergraduate Programs, 4 Apr. 2013, [uwaterloo.ca/future-students/programs/computer-science]()
+
+“How to Become AI Developer.” Careers360, 2020, [www.careers360.com/careers/ai-developer]()
+‌
+
+“Leadership Skills Development Workshops - Student Community & Leadership Development.” Student Community & Leadership Development, 11 Mar. 2021, [www.yorku.ca/scld/leadershipworkshops/]()
+
+“Le Wagon.” Coding Bootcamp Le Wagon | Most Acclaimed Coding Bootcamp Worldwide, 2022, [www.lewagon.com/tech-jobs/data-science/ai-developer]()
+
+Lior Novik/Maariv, “Is Artificial Intelligence Capable of Attacking Humanity? - Study.” The Jerusalem Post | JPost.com, The Jerusalem Post, 2022, [www.jpost.com/business-and-innovation/tech-and-start-ups/article-719001]()
+
+Ramakrishnan, Manasa. “Machine Learning and Data Analytics Using Python.” Emeritus Online Courses, 29 Sept. 2022, [emeritus.org/blog/ai-ml-how-to-become-an-ai-engineer/]()
+
+“Salary: AI Engineer (February, 2023).” Glassdoor.ca, 2023, [www.glassdoor.ca/Salaries/ai-engineer-salary-SRCH_KO0,11.htm]()
+
+
+
 
