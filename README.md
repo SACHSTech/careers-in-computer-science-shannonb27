@@ -40,6 +40,8 @@ Within the computer science field, if you have a lot of experience with the subj
 - Communication skills
 - Leadership skills
 
+<img src= "https://www.din.de/resource/image/846860/large9x5/740/413/65094703c18207e2ab7b404a1a8faf9e/fr/normungsroadmap-version-2.png" width="380">
+
 ### **Sallary Range**
 The majority of Artificial Intelligence Engineer salaries currently range between $129,366 (25th percentile) to $157,530 (75th percentile) with top earners (90th percentile) making $192,378 annually in Toronto. (Via [ZipRecruiter](https://www.ziprecruiter.com/Salaries/Artificial-Intelligence-Engineer-Salary#:~:text=While%20ZipRecruiter%20is%20seeing%20annual,annually%20across%20the%20United%20States))) The average is about $110,000 a year. As of Feb 5, 2023, the average annual pay for an Entry Level Artificial Intelligence Engineer in the United States is $112,550 a year. (Via [ZipRecruiter](https://www.ziprecruiter.com/Salaries/Artificial-Intelligence-Engineer-Salary#:~:text=While%20ZipRecruiter%20is%20seeing%20annual,annually%20across%20the%20United%20States))
 
@@ -47,6 +49,8 @@ The majority of Artificial Intelligence Engineer salaries currently range betwee
 ---
 ### **What Kind of Program Does it Take?**
 Although there are lots of programs that you can become an AI engineer from (since a lot of this field is based on experience), the University of Waterloo Computer Science Program takes the cake. The University of Waterloo is well known for their computer and Mathematics based degrees. There is a 4.3% acceptance rate for the BSC degree, meaning that this is a very competitive program, but if you are to get in, a lot of good information can be learnt from their amazing courses. 
+
+<img src= "https://cs.uwaterloo.ca/sites/ca.computer-science/files/uploads/images/davis-center_0.jpg">
 
 ### **Entry Requirements**
 For Ontario students, the University of Waterloo takes your top 6 university or mixed grade 12 courses and is expecting a low to mid 90 average. 
@@ -79,6 +83,8 @@ The first year of this program consists of about equal computer science and math
 ### **How Long Does This Degree Take?**
 This is a 4-year bachelor's degree, but it can be a 5-year degree if you are a part of the University of Waterloo CO-OP program.
 
+<img src= "https://uwaterloo.ca/future-students/sites/ca.future-students/files/styles/wide-body-750px-wide/public/uploads/images/math_header_3.jpg?itok=aNXUKZy6">
+
 ## Experimental Learning: How Can You Gain Experience in Artificial Intelligence?
 ---
 ### **CO - OP Programs**
@@ -89,6 +95,8 @@ Looking for jobs on [LinkedIn](https://ca.linkedin.com/), [Indeed](indeed.ca), a
 
 ### **Robotics**
 Being a part of a robotics team (either within a school or extra-curricularly) can give you a lot of experience with the Computer Science Field. Our own St. Augustine has a team that is heading to provincials in February of 2023.
+
+<img src= "https://pbs.twimg.com/ext_tw_video_thumb/1593994291298328576/pu/img/rjixnGQrfZErPsdk.jpg" width="450" >
 
 ### **Online Courses**
 There are multiple Computer and Artificial Intelligence courses online in order for you to understand more about the programming experience and more technical skills. 
@@ -119,6 +127,8 @@ There are a variety of jobs in the AI world, from entry-level to senior-level po
 
 **Based in:** Markham, Ontario
 
+<img src= "https://www.queer.de/img/ibm-regenbogen-logo-600x279.jpg" width=200>
+ 
  **Official Job Description:**
 
 **Introduction**: "At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk."
@@ -131,6 +141,7 @@ There are a variety of jobs in the AI world, from entry-level to senior-level po
 
 **Based in:** Fort Meade, Maryland
 
+<img src= "https://mytechdecisions.com/wp-content/uploads/2022/03/AdobeStock_304814454-1000x500.jpeg">
  **Official Job Description:** As an Engineering and Physical Science professional, you will use your skills to create the systems and tools that will be used to enhance the operation of intelligence. You will advise, administer and perform scientific projects, such as planning, designing, and constructing specialized equipment, and ensuring adherence to sound engineering and scientific standards and principles. The NSA offers multiple areas of focus for facilities engineers, including computer, architectural, electrical, mechanical, and structural. In addition, we are seeking skills that include computer design, microelectronics, radio frequency design, and systems engineering. Apply your science and engineering skills to protect the nation.
 
  **Additional Requirement:** Completed Cyberspace Workforce Improvement Program (CWIP)
@@ -155,9 +166,13 @@ Code Spaces. “10 Best Artificial Intelligence Courses, Certifications & Classe
 
 “Computer Science.” Undergraduate Programs, 4 Apr. 2013, [uwaterloo.ca/future-students/programs/computer-science]()
 
+“Current Graduate Students | Cheriton School of Computer Science.” Cheriton School of Computer Science, 16 Feb. 2017, [cs.uwaterloo.ca/current-graduate-students]()
+
 “How to Become AI Developer.” Careers360, 2020, [www.careers360.com/careers/ai-developer]()
 ‌
+Elmas, Filiz. “Standardization Roadmap AI.” Din-En, 2021, [www.din.de/en/innovation-and-research/artificial-intelligence/ai-roadmap]()
 
+‌
 “Leadership Skills Development Workshops - Student Community & Leadership Development.” Student Community & Leadership Development, 11 Mar. 2021, [www.yorku.ca/scld/leadershipworkshops/]()
 
 “Le Wagon.” Coding Bootcamp Le Wagon | Most Acclaimed Coding Bootcamp Worldwide, 2022, [www.lewagon.com/tech-jobs/data-science/ai-developer]()
